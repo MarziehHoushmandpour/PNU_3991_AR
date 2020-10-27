@@ -5,7 +5,7 @@
 ---
 - [حساب گیت هاب](https://github.com/MarziehHoushmandpour)
 
-- [رزومه](https://marziehhoushmandpour.github.io/Resume/)
+- [رزومه](https://marziehhoushmandpour.github.io//Resume/)
 
 
 ------------------
