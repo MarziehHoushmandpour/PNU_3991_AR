@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>مرضیه هوشمندپور</title>
 </head>
 <body>
 <h3>تعامل انسان و کامپیوتر</h3>
