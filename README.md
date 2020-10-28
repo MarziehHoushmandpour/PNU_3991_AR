@@ -12,7 +12,7 @@
 ## Winter Semester Courses 1399/2020
 
 ## دروس کارشناسی
-[تعامل انسان و کامپیوتر 01_1322108](
+[تعامل انسان و کامپیوتر 01_1322108](https://github.com/MarziehHoushmandpour/PNU_3991_AR/tree/main/HumanComputerInteraction)
 [طراحی واسط کاربر01_1322110](
 
 --------------
