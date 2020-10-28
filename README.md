@@ -13,7 +13,7 @@
 
 ## دروس کارشناسی
 [تعامل انسان و کامپیوتر 01_1322108](https://github.com/MarziehHoushmandpour/PNU_3991_AR/tree/main/HumanComputerInteraction)
-[طراحی واسط کاربر01_1322110](
+[طراحی واسط کاربر01_1322110](https://github.com/MarziehHoushmandpour/PNU_3991_AR/tree/main/UserInterfaceDesgin)
 
 --------------
 ## روز و ساعت ارائه دروس
