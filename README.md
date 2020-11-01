@@ -7,6 +7,7 @@
 
 - [رزومه](https://marziehhoushmandpour.github.io/)
 
+- [SOP](https://marziehhoushmandpour.github.io/SOP/)
 
 ------------------
 ## Winter Semester Courses 1399/2020
