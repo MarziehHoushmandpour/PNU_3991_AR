@@ -17,6 +17,16 @@
 [تعامل انسان و کامپیوتر 01_1322108](https://github.com/MarziehHoushmandpour/PNU_3991_AR/tree/main/HumanComputerInteraction)
 <br>
 [طراحی واسط کاربر01_1322110](https://github.com/MarziehHoushmandpour/PNU_3991_AR/tree/main/UserInterfaceDesgin)
+<br>
+[1322013_01 شبکه های کامپیوتری]
+<br>
+[1115204_01 سیگنال ها و سیستم ها]
+<br>
+[1322113_02 مباحث ویژه 1]
+<br>
+[1111571_01 جیر خطی کاربردی]
+<br>
+[1322012_02 سیستم های عامل]
 
 --------------
 ## روز و ساعت ارائه دروس
