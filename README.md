@@ -24,7 +24,7 @@
 <br>
 [1322113_02 مباحث ویژه 1]
 <br>
-[1111571_01 جیر خطی کاربردی]
+[1111571_01 جبر خطی کاربردی]
 <br>
 [1322012_02 سیستم های عامل]
 
@@ -57,7 +57,7 @@
     <th>یک شنبه</th>
   </tr>
    <tr>
-     <th>جبرخطی کاربردی</th>
+     <th>جبر خطی کاربردی</th>
      <th></th>
      <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin">طراحی واسط کاربر</a></th>
      <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction">تعامل انسان و کامپیوتر</a></th>
@@ -66,7 +66,7 @@
   </tr>
    <tr>
     <th></th>
-    <th>سیستم عامل</th>
+    <th>سیستم های عامل</th>
     <th></th>
     <th></th>
     <th></th>
