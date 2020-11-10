@@ -4,7 +4,7 @@
  
 ---
 - [github](https://github.com/MarziehHoushmandpour)
--[PNU_3991_AR](https://github.com/MarziehHoushmandpour/PNU_3991_AR)
+- [PNU_3991_AR](https://github.com/MarziehHoushmandpour/PNU_3991_AR)
 
 - [resume](https://marziehhoushmandpour.github.io/)
 
