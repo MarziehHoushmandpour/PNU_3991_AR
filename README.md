@@ -8,7 +8,7 @@
 - [رزومه](https://marziehhoushmandpour.github.io/)
 
 - [SOP](https://marziehhoushmandpour.github.io/SOP/)
-- [javascript Certificate](https://github.com/MarziehHoushmandpour/PNU_3991_AR/blob/main/js.pdf.PDF)
+- [javascript Certificate](https://github.com/MarziehHoushmandpour/PNU_3991_AR/blob/main/js.PDF)
 
 ------------------
 ## Winter Semester Courses 1399/2020
