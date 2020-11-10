@@ -3,9 +3,10 @@
 ### مرضیه هوشمندپور
  
 ---
-- [حساب گیت هاب](https://github.com/MarziehHoushmandpour)
+- [github](https://github.com/MarziehHoushmandpour)
+-[PNU_3991_AR](https://github.com/MarziehHoushmandpour/PNU_3991_AR)
 
-- [رزومه](https://marziehhoushmandpour.github.io/)
+- [resume](https://marziehhoushmandpour.github.io/)
 
 - [SOP](https://marziehhoushmandpour.github.io/SOP/)
 - [javascript Certificate](https://github.com/MarziehHoushmandpour/PNU_3991_AR/blob/main/js.PDF)
