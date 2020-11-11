@@ -10,7 +10,7 @@
 
 - [SOP](https://marziehhoushmandpour.github.io/SOP/)
 - [javascript Certificate](https://github.com/MarziehHoushmandpour/PNU_3991_AR/blob/main/js.PDF)
-- [jlord patchwork](https://github.com/MarziehHoushmandpour/PNU_3991_AR/blob/main/jlord.png)
+- [jlord patchwork](jlord.png)
 
 ------------------
 
