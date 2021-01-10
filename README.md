@@ -13,6 +13,17 @@
 - [jlord patchwork](https://github.com/MarziehHoushmandpour/PNU_3991_AR/blob/main/jlord.pdf)
 
 ------------------
+> ارزیابی ها
+
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه]()
+- [خلاصه ارزیابی بخش عمومی]()
+
+##  بخش دروس کارشناسی
+- [خلاصه ارزیابی درس طراحی واسط کاربر]()
+- [خلاصه ارزیابی درس تعامل انسان و کامپیوتر]()
+
+------
 
 # گروه ها
 1. [G-U03](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin)
