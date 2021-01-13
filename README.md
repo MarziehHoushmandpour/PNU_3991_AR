@@ -20,7 +20,7 @@
 - [خلاصه ارزیابی بخش عمومی](XX_GeneralSection_CheckList_AR_3991.pdf)
 
 ##  بخش دروس کارشناسی
-- [خلاصه ارزیابی درس طراحی واسط کاربر]()
+- [خلاصه ارزیابی درس طراحی واسط کاربر](https://github.com/MarziehHoushmandpour/PNU_3991_AR/blob/main/UserInterfaceDesgin/XX_UserInterfaceDesgin_CheckList_AR_3991.pdf)
 - [خلاصه ارزیابی درس تعامل انسان و کامپیوتر](https://github.com/MarziehHoushmandpour/PNU_3991_AR/blob/main/HumanComputerInteraction/XX_HumanComputerInteraction_CheckList_AR_3991.pdf)
 
 ------
