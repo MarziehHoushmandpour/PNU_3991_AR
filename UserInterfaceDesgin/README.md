@@ -7,7 +7,6 @@
 
 ### :لینک به صورت جداگانه 
 mir-mohammad.github.io/learning/
-
 ---------
 ### :اعضای گروه
 
