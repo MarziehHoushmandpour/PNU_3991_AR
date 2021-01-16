@@ -1,7 +1,7 @@
 ### لینک پروژه نهایی
 - [ اینجا کلیک کنید](mir-mohammad.github.io/learning/)
 
-- [ جزيیات پروژه](https://github.com/mir-mohammad/PNU_3991_AR/blob/main/HumanComputerInteraction/%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA%20%D9%BE%D8%B1%D9%88%DA%98%D9%87.pdf)
+- [ جزيیات پروژه](https://github.com/MarziehHoushmandpour/PNU_3991_AR/blob/main/HumanComputerInteraction/%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA%20%D9%BE%D8%B1%D9%88%DA%98%D9%87.pdf)
 
 
 ### :لینک به صورت جداگانه 
